@@ -103,7 +103,6 @@ Internal Latency: ~40 microseconds (Tick arrival → Python signal).
 Throughput: Capable of processing 100,000+ ticks/sec.
 
 Stability: "Zombie-Proof" networking with auto-reconnect heartbeat logic.
-![Project Screenshot](./images/Screenshot 2025-12-02 035823.png)
 
 ⚠️ Disclaimer
 This software is for educational purposes only. Cryptocurrency trading involves significant risk. The authors are not responsible for financial losses incurred by using this software.
