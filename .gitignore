@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# C++ Build Artifacts
+hydra_core/build/
+hydra_engine
+*.o
+*.so
+*.dylib
+
+# Data (Too big for git)
+data/parquet/
+data/raw_ticks/
+*.csv
+*.parquet
+
+# Logs and Checkpoints
+logs/
+hydra_brain/checkpoints/
+*.zip
+
+# OS
+.DS_Store
